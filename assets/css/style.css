@@ -39,6 +39,11 @@ li a {
     text-decoration: none;
 }
 
+#game-links {
+    text-decoration: none;
+    color: white;
+}
+
 #myName {
     float: left;
     font-size: 24px;
